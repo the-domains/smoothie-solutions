@@ -1,0 +1,28 @@
+name: Smoothie Solutions
+favicon: null
+layout_spectrum: 0.22229286190122366
+typography_spectrum: 0.1326098619028926
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.04126655380241573
+  lightness: 0.9766815940383822
+  saturation: 0.6898244151379913
+  rhythmicContrast: 0.3410391688812524
+purpose: []
